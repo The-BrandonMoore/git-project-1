@@ -1,2 +1,2 @@
 # Github Instruction Project
-learned through my first git and github project.
+Learned my first git and github project.
